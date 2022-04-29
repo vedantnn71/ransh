@@ -1,5 +1,5 @@
 # Rytes
-A stupidly simple random bytes generator written in node.js & typescript.
+A stupidly simple random hash generator written in node.js & typescript.
 
 ### Installation
 With npm package manager
