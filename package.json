@@ -1,6 +1,6 @@
 {
   "name": "ransh",
-  "version": "0.0.3",
+  "version": "0.0.31",
   "description": "Minimal, and simplistic random hash bytes generator",
   "main": "./bin/app.js",
   "author": "Vedant Nandwana",
