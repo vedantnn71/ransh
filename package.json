@@ -1,11 +1,13 @@
 {
   "name": "ransh",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "description": "Minimal, and simplistic random hash bytes generator",
   "main": "./bin/app.js",
   "author": "Vedant Nandwana",
   "license": "MIT",
   "bin": "./bin/app.js",
+  "keywords": "random, hash, bytes, generator",
+  "repository": "https://github.com/vedantnn71/ransh",
   "scripts": {
     "build": "tsc",
     "dev": "tsc --watch"
