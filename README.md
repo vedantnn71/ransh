@@ -1,14 +1,14 @@
-# Rytes
+# Ransh
 A stupidly simple random hash generator written in node.js & typescript.
 
 ### Installation
 With npm package manager
 ```bash 
-$ npm install -g rytes
+$ npm install -g ransh
 ```
 OR you can also install with yarn
 ```bash
-$ yarn global add rytes
+$ yarn global add ransh
 ```
 ### Usage
 ```bash
